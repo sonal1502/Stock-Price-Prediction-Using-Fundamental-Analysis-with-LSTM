@@ -1,0 +1,2 @@
+#StockPricePredCodeFinal is the main code which is used to create and train the model. 
+#StockApp uses 'Dash' to provide a dynamic output/app which can view market shares of companies such as Facebook, Twitter etc.
