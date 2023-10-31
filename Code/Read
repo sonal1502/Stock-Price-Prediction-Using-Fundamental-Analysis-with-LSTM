@@ -1,2 +1,3 @@
 #StockPricePredCodeFinal is the main code which is used to create and train the model. 
 #StockApp uses 'Dash' to provide a dynamic output/app which can view market shares of companies such as Facebook, Twitter etc.
+#The saved LSTM model is exported from the model Training Code and into the Dash Application Code. 
