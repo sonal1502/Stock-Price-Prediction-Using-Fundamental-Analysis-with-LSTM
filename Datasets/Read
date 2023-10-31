@@ -1,0 +1,6 @@
+
+#There exist 2 datasets; 
+#          i) NSE-Tata-Global-Beverages
+#           ii) stock_data
+
+#'NSE-Tata-Global-Beverages' was used to train the model and stock_data was used mainly to create the application.
